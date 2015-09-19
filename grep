@@ -1,0 +1,2 @@
+grep takes two parameters: what you want to search for (a world, a number, a regular expression) and the file (or type of file)
+you want to search through. It will return the lines of the file including what it is looking for. 
